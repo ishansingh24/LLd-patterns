@@ -51,7 +51,8 @@ This repository contains examples and implementations of various Low-Level Desig
     - `factory`: Contains the Factory pattern examples.
     - `builder`: Contains the Builder pattern examples.
     - `abstractfactory`: Contains the Abstract Factory pattern examples.
-    - `Proxy`: ontains the  proxy pattern examples.
+    - `Proxy`: contains the  proxy pattern examples.
+    - `facade`: contains the  facade pattern examples.
 
 ## Setup and Running
 
