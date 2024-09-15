@@ -31,8 +31,14 @@ This repository contains examples and implementations of various Low-Level Desig
    - **Example**: Creating UI elements (buttons, checkboxes) for different operating systems (Windows, macOS).
 
 7. **Proxy Pattern** 
-   -**Purpose**: 
-   -**Example**:
+   -**Purpose**: provide the placeholder for another object to provide the access control. used when direct access to real object 
+                 is not required.
+   -**Example**: 
+
+8. **Facde Pattern**
+   -**Purpose**: The Facade Pattern is a design pattern used to provide a simplified interface to a complex subsystem or set 
+                 of interfaces. It helps in reducing the complexity of interacting with multiple classes or components by providing a unified, high-level interface.   
+   -**Example**:            
 (You can add more patterns and examples as needed.)
 
 ## Project Structure
