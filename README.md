@@ -30,6 +30,9 @@ This repository contains examples and implementations of various Low-Level Desig
    - **Purpose**: Provides an interface for creating families of related or dependent objects without specifying their concrete classes.
    - **Example**: Creating UI elements (buttons, checkboxes) for different operating systems (Windows, macOS).
 
+7. **Proxy Pattern** 
+   -**Purpose**: 
+   -**Example**:
 (You can add more patterns and examples as needed.)
 
 ## Project Structure
@@ -42,6 +45,7 @@ This repository contains examples and implementations of various Low-Level Desig
     - `factory`: Contains the Factory pattern examples.
     - `builder`: Contains the Builder pattern examples.
     - `abstractfactory`: Contains the Abstract Factory pattern examples.
+    - `Proxy`: ontains the  proxy pattern examples.
 
 ## Setup and Running
 
