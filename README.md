@@ -22,6 +22,14 @@ This repository contains examples and implementations of various Low-Level Desig
    - **Purpose**: Provides an interface for creating objects without specifying the exact class of object that will be created.
    - **Example**: Creating different types of vehicles (e.g., Car, Bike) through a factory method.
 
+5. **Builder Pattern**
+   - **Purpose**: Constructs a complex object step-by-step, allowing for different representations of the same type of object.
+   - **Example**: Building a custom computer with various components (CPU, GPU, RAM, etc.).
+
+6. **Abstract Factory Pattern**
+   - **Purpose**: Provides an interface for creating families of related or dependent objects without specifying their concrete classes.
+   - **Example**: Creating UI elements (buttons, checkboxes) for different operating systems (Windows, macOS).
+
 (You can add more patterns and examples as needed.)
 
 ## Project Structure
@@ -32,6 +40,8 @@ This repository contains examples and implementations of various Low-Level Desig
     - `decorator`: Contains the Decorator pattern examples.
     - `singleton`: Contains the Singleton pattern examples.
     - `factory`: Contains the Factory pattern examples.
+    - `builder`: Contains the Builder pattern examples.
+    - `abstractfactory`: Contains the Abstract Factory pattern examples.
 
 ## Setup and Running
 
